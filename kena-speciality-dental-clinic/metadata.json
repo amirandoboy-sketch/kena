@@ -1,0 +1,6 @@
+{
+  "name": "Kena Speciality Dental Clinic",
+  "description": "Website and appointment request system for Kena Speciality Dental Clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
